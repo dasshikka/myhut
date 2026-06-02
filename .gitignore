@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.plist
+*.sh
+node_modules/
+.env
+*.tmp
